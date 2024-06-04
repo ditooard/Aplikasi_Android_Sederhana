@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Mountaineses</string>
+    <string name="splashscreen">SplashScreen</string>
+    <string name="about">About Me</string>
+    <string name="myName">Dito Ardi Pratama</string>
+    <string name="tittle">10 Gunung Es Tertinggi di Dunia</string>
+    <string name="myEmail">ditooard.stu@pnc.ac.id</string>
+    <string name="myLinkedIn">Linked In</string>
+    <string name="reference">Reference</string>
+    <string name="dicoding">Dicoding Academy</string>
+    <string name="image">Image</string>
+    <string name="description">Deskripsi</string>
+    <string name="detail_received">Detail Gunung Received</string>
+    <string name="detail">Detail Gunung</string>
+    <string name="nama_gunung">Nama Gunung</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="ketinggian">Ketinggian Gunung</string>
+    <string name="jalur">Jalur Pendakian</string>
+    <string name="lokasi_received">Lokasi Received</string>
+    <string name="ketinggian_received">Ketinggian Gunung Received</string>
+    <string name="jalur_received">Jalur Pendakian Received</string>
+</resources>
